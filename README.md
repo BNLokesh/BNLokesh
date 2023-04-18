@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/C5616AQFz9LeO2MPaoA/profile-displaybackgroundimage-shrink_350_1400/0/1668316722865?e=1687392000&v=beta&t=0ndAnnxfIcZ9mGwpZ7cGdg66DmDYNVlkukchpx8bg6Y" alt="cover-image" width=100% height=200>
 <h1 align="center">Hi 👋, I'm BN.LOKESH</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
@@ -8,7 +9,7 @@
 - 📫 How to reach me **lokeshbn2000@gmail.com**
 
 - ⚡ Fun fact **Why was the CSS developer crying? Because they couldn't center-align their emotions.**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lokeshbn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lokeshbn/" height="30" width="40" /></a>
