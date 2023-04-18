@@ -1,6 +1,8 @@
 <img src="https://media.licdn.com/dms/image/C5616AQFz9LeO2MPaoA/profile-displaybackgroundimage-shrink_350_1400/0/1668316722865?e=1687392000&v=beta&t=0ndAnnxfIcZ9mGwpZ7cGdg66DmDYNVlkukchpx8bg6Y" alt="cover-image" width=100% height=200>
+
 <h1 align="center">Hi 👋, I'm BN.LOKESH</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
+<img align="right" alt="Frontend" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🔭 I’m currently working on **Python Learning WEB-APP**
 
