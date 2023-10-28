@@ -1,6 +1,6 @@
 # About Me
 
-(https://marketsplash.com/content/images/2023/09/MarketSplash-PROGRAMMING-Cover-17--1--2.jpg)
+![Cover Image](https://marketsplash.com/content/images/2023/09/MarketSplash-PROGRAMMING-Cover-17--1--2.jpg)
 # Hi there! 👋
 
 I'm LOKESH BN, a passionate developer with a love for code and creativity. I'm on a journey to make the digital world a better place one project at a time. 🚀
