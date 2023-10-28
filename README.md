@@ -2,7 +2,8 @@
 
 ![Your Profile Image](https://marketsplash.com/content/images/2023/09/MarketSplash-PROGRAMMING-Cover-17--1--2.jpg)
 
-Hi, I'm LOKESH BN, a passionate developer and open-source enthusiast. I love working on various projects and exploring new technologies. My goal is to make a positive impact on the world through code.
+Hi, I'm LOKESH BN. 
+A passionate developer and open-source enthusiast. I love working on various projects and exploring new technologies. My goal is to make a positive impact on the world through code.
 
 ## Skills
 
