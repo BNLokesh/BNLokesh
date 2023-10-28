@@ -17,15 +17,15 @@ Here are some of the projects I'm proud of:
 
 1. TODOS-APPLICATION
    - Description: The Todos Application is a task management tool designed to help users keep track of their daily tasks and activities. It provides a user-friendly interface to create, edit, prioritize, and mark tasks as complete.
-   - GitHub Repo: [((https://github.com/BNLokesh/TODOS-APPLICATION))]
+   - GitHub Repo: https://github.com/BNLokesh/TODOS-APPLICATION
 
 
 ## Contact
 
 Feel free to reach out to me through the following channels:
 
-- GitHub: [Your GitHub Profile](https://github.com/BNLokesh/)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lokeshbn/)
+- GitHub: [GITHUB](https://github.com/BNLokesh/)
+- LinkedIn: [LINKEDIN](https://www.linkedin.com/in/lokeshbn/)
 - Email: lokeshbn2000@gmail.com
 
 Let's collaborate and build amazing things together!
