@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5616AQFz9LeO2MPaoA/profile-displaybackgroundimage-shrink_350_1400/0/1668316722865?e=1687392000&v=beta&t=0ndAnnxfIcZ9mGwpZ7cGdg66DmDYNVlkukchpx8bg6Y" alt="cover-image" width=100% height=200>
+<img src="https://marketsplash.com/content/images/2023/09/MarketSplash-PROGRAMMING-Cover-17--1--2.jpg" alt="cover-image" width=100% height=200>
 
 <h1 align="center">Hi 👋, I'm LOKESH BN</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
